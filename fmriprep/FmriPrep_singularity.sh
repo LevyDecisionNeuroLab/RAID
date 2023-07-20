@@ -33,7 +33,7 @@
 # Outputs ----------------------------------
 #SBATCH -o %x-%A-%a.out # this will give you the list of commands and there results (success/failure). If the run fails here you will get the spesifcs
 #SBATCH -e %x-%A-%a.err # this will give you a short file with what errors were during the execution
-#SBATCH --mail-user=chelsea.xu@yale.edu # replace with your email
+#SBATCH --mail-user=chelsea.xu@yale.edu # replace with your email!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #SBATCH --mail-type=ALL
 # ------------------------------------------
 
